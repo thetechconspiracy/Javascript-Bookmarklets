@@ -1,2 +1,2 @@
 # Javascript-Bookmarklets
-A series of bookmarklets to enhance my browsing experience
+A series of small and simple bookmarklets to enhance my browsing experience
